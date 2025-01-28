@@ -152,6 +152,3 @@ public class FieldOfViewEditor : Editor
 ## 📌 Conclusion
 **Field of View** is a dynamic visibility-based simulation focusing on stealth and awareness. With **real-time enemy detection**, **realistic movement**, and **customizable field of view mechanics**, the game offers an engaging experience. Future updates will introduce **AI enhancements** and **advanced environmental interactions**. 🚀🎮
 
----
-📢 **For suggestions or contributions, feel free to connect!** 🤝
-
