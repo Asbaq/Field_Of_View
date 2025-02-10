@@ -1,6 +1,3 @@
-ji# Field_Of_View
- Field_Of_View
- 
 # 📜 Game Documentation: Field of View 🎮
 
 ## 📌 Game Title: Field of View  
